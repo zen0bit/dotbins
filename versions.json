@@ -1,0 +1,142 @@
+{
+  "atuin/linux/amd64": {
+    "version": "18.5.0",
+    "updated_at": "2025-04-12T13:05:18.464814",
+    "sha256": "47a09d0b7e696b72b09fe37d5c1933ba22ee7bf131574493f66b1260aca2915d"
+  },
+  "btop/linux/amd64": {
+    "version": "1.4.0",
+    "updated_at": "2025-04-12T13:05:18.560268",
+    "sha256": "2e49cde9c0f273e5b1699d2c4f1ce5d1c08cca5fd90e5e0226dbac9fd00c82f3"
+  },
+  "fastfetch/linux/amd64": {
+    "version": "2.40.4",
+    "updated_at": "2025-04-12T13:05:18.722138",
+    "sha256": "e559c05f8d93dc5678800af7c4e806aa0fb7af2ce246ce84dfb16ef26a4174a5"
+  },
+  "fzf/linux/amd64": {
+    "version": "0.61.1",
+    "updated_at": "2025-04-12T13:05:18.752178",
+    "sha256": "f728b94bbbf7008602581fc07ea00de5dccf55a2cb2bf9fd9a35f1071b3b9f6c"
+  },
+  "git-lfs/linux/amd64": {
+    "version": "3.6.1",
+    "updated_at": "2025-04-12T13:05:18.882163",
+    "sha256": "2138d2e405a12f1a088272e06790b76699b79cb90d0317b77aafaf35de908d76"
+  },
+  "glow/linux/amd64": {
+    "version": "2.1.0",
+    "updated_at": "2025-04-12T13:05:18.989556",
+    "sha256": "8f4e9a1c7ed8f8a0f44128d27faae90ab484be7ff109251422c3ba7f9d764a56"
+  },
+  "gum/linux/amd64": {
+    "version": "0.16.0",
+    "updated_at": "2025-04-12T13:05:19.073060",
+    "sha256": "7a403e5671bb0e00f93f7b6aa89ec46f7adbda6f7df5c7bad99a01826903b124"
+  },
+  "hx/linux/amd64": {
+    "version": "25.01.1",
+    "updated_at": "2025-04-12T13:05:19.125148",
+    "sha256": "6008c86ac6ce22e971cb96493a6a317816ee34ba8017983e5095255afdb460e2"
+  },
+  "kando/linux/amd64": {
+    "version": "1.8.0",
+    "updated_at": "2025-04-12T13:05:19.355540",
+    "sha256": "186cbb1dccf63cc602e21164fb274e77b35d837ad563718fd2b3042496954585"
+  },
+  "lazygit/linux/amd64": {
+    "version": "0.48.0",
+    "updated_at": "2025-04-12T13:05:19.491511",
+    "sha256": "291722c643a10805de3bd7b58f51d5275878269aeadb046709708f8683f558d7"
+  },
+  "sheldon/linux/amd64": {
+    "version": "0.8.1",
+    "updated_at": "2025-04-12T13:05:19.561917",
+    "sha256": "7b3567371eadf5ba7ab3f7057dba66260045d47ccd670fcf690ee4e8d4fe3bb7"
+  },
+  "starship/linux/amd64": {
+    "version": "1.22.1",
+    "updated_at": "2025-04-12T13:05:19.631601",
+    "sha256": "62c91b5ecc7f8c8c6ea7ffea42a98bd2e6a2d29daf61562fac04daece18a6461"
+  },
+  "tldr/linux/amd64": {
+    "version": "1.7.2",
+    "updated_at": "2025-04-12T13:05:19.642687",
+    "sha256": "d30bbd35b962bfab5cd3aaef2ece5316ee6f732d25e3f665ddb2797f9d64ee0f"
+  },
+  "topgrade/linux/amd64": {
+    "version": "16.0.3",
+    "updated_at": "2025-04-12T13:05:19.732902",
+    "sha256": "46eb516fe25069c34dbf2301f6c14ff40fd77ce6e23bdd3206e3f43b5e5a28de"
+  },
+  "uv/linux/amd64": {
+    "version": "0.6.14",
+    "updated_at": "2025-04-12T13:05:20.003495",
+    "sha256": "0cac4df0cb3457b154f2039ae471e89cd4e15f3bd790bbb3cb0b8b40d940b93e"
+  },
+  "yazi/linux/amd64": {
+    "version": "25.4.8",
+    "updated_at": "2025-04-12T13:05:20.131157",
+    "sha256": "01128a2d9d79018721cc557976ade57c28c61daa47e9f7207f2cbd3d5553a734"
+  },
+  "zellij-bookmarks/linux/amd64": {
+    "version": "0.3.0",
+    "updated_at": "2025-04-12T13:05:20.384469",
+    "sha256": "cdca765487092956f2e1b080e01e22869b2c1cf495e358cde5df7dcd0039624c"
+  },
+  "zellij-branch/linux/amd64": {
+    "version": "0.4.1",
+    "updated_at": "2025-04-12T13:05:20.390103",
+    "sha256": "5d555d79dc031a355308f225e59022703d98199c82091725804dad86d411fe6e"
+  },
+  "zellij-favs/linux/amd64": {
+    "version": "0.1.8",
+    "updated_at": "2025-04-12T13:05:20.395056",
+    "sha256": "3194c200a6510de2b0814d6378e0d687ddd4fa34c3ee0d43ee24c00dfacc82fd"
+  },
+  "zellij-forgot/linux/amd64": {
+    "version": "0.4.2",
+    "updated_at": "2025-04-12T13:05:20.399769",
+    "sha256": "31194145519dbdc128685b456f970374378fa19fc9da742fbe4a321bace449db"
+  },
+  "zellij-ghost/linux/amd64": {
+    "version": "0.6.0",
+    "updated_at": "2025-04-12T13:05:20.407593",
+    "sha256": "fbf4df9c88a6ca1358cd87abc43f8585790fa486e57563cf26b8ec4dd3f03b87"
+  },
+  "zellij-multitask/linux/amd64": {
+    "version": "0.42.1",
+    "updated_at": "2025-04-12T13:05:20.413081",
+    "sha256": "476b058cb1999cc42f3fa68800e3000e1fd1e088c09a0080a9337cb971c58a3a"
+  },
+  "zellij-room/linux/amd64": {
+    "version": "1.2.0",
+    "updated_at": "2025-04-12T13:05:20.417559",
+    "sha256": "b7a18f3fb38eced7fa5ed060ce12c5f9e754536f78b709eed32e6eb9f5f0ae4c"
+  },
+  "zellij-switch/linux/amd64": {
+    "version": "0.2.1",
+    "updated_at": "2025-04-12T13:05:20.422032",
+    "sha256": "ef257e41ffeb73337ed1dead309942d14663d12d8f58170f0cdab5045b0a22ae"
+  },
+  "zellij-workspace/linux/amd64": {
+    "version": "0.3.0",
+    "updated_at": "2025-04-12T13:05:20.427014",
+    "sha256": "3d1f04a5af497d05072a0fa3045ffd46cdd30f333ff4861771d9be909b096b73"
+  },
+  "zellij/linux/amd64": {
+    "version": "0.42.1",
+    "updated_at": "2025-04-12T13:05:20.375406",
+    "sha256": "0ac71035d6ab6c68c709cfbd638dbe00ba9215dfde59ee97fe322beb47bd10ff"
+  },
+  "zen-browser/linux/amd64": {
+    "version": "1.11.2b",
+    "updated_at": "2025-04-12T13:05:20.626485",
+    "sha256": "69114a8d2c375a8bded24d3dd677440636ddbb111638cca67e666958d66a3559"
+  },
+  "zoxide/linux/amd64": {
+    "version": "0.9.7",
+    "updated_at": "2025-04-12T13:05:20.665428",
+    "sha256": "ee53a42c11fe8a175ef7b136bb91f588aef76e1ae7133e58a695b1199588ee7e"
+  }
+}
